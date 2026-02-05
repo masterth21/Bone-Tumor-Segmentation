@@ -1,0 +1,13 @@
+# Dữ liệu và Model (Nặng, không đẩy lên)
+logs/
+__pycache__/
+train_polyp.py/
+test_polyp.py/
+data/
+
+# Môi trường ảo
+venv/
+.env
+
+# VS Code
+.vscode/
