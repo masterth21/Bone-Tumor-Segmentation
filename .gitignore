@@ -1,9 +1,8 @@
 # Dữ liệu và Model (Nặng, không đẩy lên)
-logs/
+data/raw/
+data/processed1/
 __pycache__/
-train_polyp.py/
-test_polyp.py/
-data/
+logs/
 
 # Môi trường ảo
 venv/
