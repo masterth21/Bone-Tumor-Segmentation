@@ -1,6 +1,6 @@
 # Dữ liệu và Model (Nặng, không đẩy lên)
-data/raw/
 data/processed1/
+data/raw/
 __pycache__/
 logs/
 
