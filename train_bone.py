@@ -72,7 +72,7 @@ def test(model, path, split, opt):
         trainsize=opt.img_size,
         shuffle=False,
         split=split,
-        color_image=opt.color_image,
+        # color_image=opt.color_image,
     )
 
     DSC, IOU, total_images = 0.0, 0.0, 0
